@@ -1,0 +1,4 @@
+*.key
+*.pub
+_gitdata
+examples/simpleserver/simpleserver
